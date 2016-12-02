@@ -1,7 +1,16 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-
-# Dependency directories
-node_modules
+*~
+*.pyc
+*.swp
+.idea
+build
+.DS_Store
+.sass-cache/
+node_modules/
+.ruby-gemset
+.rvmrc
+.grunt-gae-pid
+src/css/styles.css
+src/css/styles.min.css
+dist
+.tmp
+npm-debug.log
